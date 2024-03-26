@@ -5,8 +5,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
-    name: "God Duari - Product Owner"
-    email: "godduari26@gmail.com"
+    name: "Godl Duari - Product Owner"
+    email: "godlduari26@gmail.com"
   onCallSupport:
     - (444) 555-1234
     - (444) 523-1345
